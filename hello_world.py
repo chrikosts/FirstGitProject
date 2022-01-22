@@ -1,4 +1,4 @@
-print("Bug found bitches")
+print("Bug found!")
 
 print("Hello World!")
 
